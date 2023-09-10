@@ -16,9 +16,9 @@ pip install beautifulsoup4
 2. Modify the url variable in the script with the URL of the website you want to scrape.
 
 3. Run the script:
-
+```bash
 python web_scraping.py
-
+```
 4. The script will send an HTTP GET request to the specified URL, fetch the HTML content, and parse it using BeautifulSoup.
 
 5. It will then locate and extract data from a specific table on the webpage. The extracted data includes date, close price, open price, high, low, change, and percentage change.
