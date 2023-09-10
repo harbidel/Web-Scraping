@@ -9,7 +9,7 @@ Before running the script, ensure you have the required libraries installed:
 ```bash
 pip install requests
 pip install beautifulsoup4
-
+```
 # Usage
 1. Clone this repository or download the web_scraping.py script.
 
