@@ -24,3 +24,12 @@ python web_scraping.py
 5. It will then locate and extract data from a specific table on the webpage. The extracted data includes date, close price, open price, high, low, change, and percentage change.
 
 6. Finally, the script will print the extracted data for further processing or analysis.
+
+# Example
+For this script, the URL is set to 'https://ng.investing.com/currencies/usd-ngn-historical-data'. You can replace it with the URL of the website you want to scrape.
+
+# Note
+Ensure that you have the necessary permissions to scrape data from the website.
+Customize the script according to the structure of the target website to extract specific data.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
