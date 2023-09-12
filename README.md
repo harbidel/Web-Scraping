@@ -32,5 +32,5 @@ For this script, the URL is set to 'https://ng.investing.com/currencies/usd-ngn-
 * Ensure that you have the necessary permissions to scrape data from the website.
 * Customize the script according to the structure of the target website to extract specific data.
 
-#License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
