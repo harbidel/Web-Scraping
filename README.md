@@ -29,7 +29,8 @@ python web_scraping.py
 For this script, the URL is set to 'https://ng.investing.com/currencies/usd-ngn-historical-data'. You can replace it with the URL of the website you want to scrape.
 
 # Note
-Ensure that you have the necessary permissions to scrape data from the website.
-Customize the script according to the structure of the target website to extract specific data.
-License
+* Ensure that you have the necessary permissions to scrape data from the website.
+* Customize the script according to the structure of the target website to extract specific data.
+
+#License
 This project is licensed under the MIT License - see the LICENSE file for details.
